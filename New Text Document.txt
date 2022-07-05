@@ -1,0 +1,2 @@
+Gsbk.aternos.me:26151      ip
+port    26151
